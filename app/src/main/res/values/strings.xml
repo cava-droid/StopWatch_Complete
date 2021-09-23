@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="string_value">이미지가 열리지 않습니다.</string>
+    <string name="lap_time">Lap Time</string>
+    <string name="string_sec">0</string>
+    <string name="string_msec">00</string>
+</resources>
